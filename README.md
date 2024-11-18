@@ -1,6 +1,6 @@
 # BLINKIT SALES ANALYSIS
 
-### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=2edb2ef2-91b2-4fdb-a2fd-6060ed20bc25&autoAuth=true&ctid=82c3fcca-42c8-405e-a50c-22848a63ed50
+### Dashboard Link : https://app.powerbi.com/reportEmbed?reportId=d36f3abb-f4f0-475b-9315-f960da5b163f&autoAuth=true&ctid=82c3fcca-42c8-405e-a50c-22848a63ed50
 
 ## Problem Statement
 
