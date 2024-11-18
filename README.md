@@ -86,3 +86,7 @@ Chart Type: Funnel Map.
 Objective: Provide a comprehensive view of all key metrices (Total Sales, Average Sales, Number of Items, Average Ratings) broken down by different outlet types.
 
 Chart Type: Matrix Chart. 
+
+## SOFTWARE USED
+1. Advanced Excel
+2. Microsoft Power BI
